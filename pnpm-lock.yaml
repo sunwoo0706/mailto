@@ -1,9 +1,9 @@
 lockfileVersion: '6.0'
 
 devDependencies:
-  '@fontsource/fira-mono':
-    specifier: ^4.5.10
-    version: 4.5.10
+  '@fontsource/inter':
+    specifier: ^5.0.3
+    version: 5.0.3
   '@neoconfetti/svelte':
     specifier: ^1.0.0
     version: 1.0.0
@@ -296,8 +296,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@fontsource/fira-mono@4.5.10:
-    resolution: {integrity: sha512-bxUnRP8xptGRo8YXeY073DSpfK74XpSb0ZyRNpHV9WvLnJ7TwPOjZll8hTMin7zLC6iOp59pDZ8EQDj1gzgAQQ==}
+  /@fontsource/inter@5.0.3:
+    resolution: {integrity: sha512-JJvh5xht71F6e0E5r2+Ffu8g+CYAxMvnGJm9ZMg5IIjy8UwxLp+8C99TgPJupdEyBpEJv0wuMG2Rd183z/bV8g==}
     dev: true
 
   /@humanwhocodes/config-array@0.11.8:
